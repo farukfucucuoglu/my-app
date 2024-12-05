@@ -13,3 +13,6 @@ body{
    width: 4000px;
    border-radius: 16px;
 }
+.row{
+    display: flex;
+}
